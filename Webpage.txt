@@ -1,3 +1,2 @@
 Hello
-Hai
-Cool
+>>>>>>> parent of 827abf1 (Files modified - Commit 1)
